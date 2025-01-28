@@ -1,0 +1,45 @@
+{
+  "Messages": [
+    {
+      "Type": 0,
+      "Text": "[UnityEngine.TextCoreTextEngineModule] - System.Void UnityEngine.TextCore.Text.TextGeneratorUtilities::.cctor() - Method was given it\u0027s own cpp file because it is large and costly to compile"
+    },
+    {
+      "Type": 0,
+      "Text": "[UnityEngine.TextCoreTextEngineModule] - System.Boolean UnityEngine.TextCore.Text.TextGenerator::ValidateHtmlTag(UnityEngine.TextCore.Text.TextProcessingElement[],System.Int32,System.Int32\u0026,UnityEngine.TextCore.Text.TextGenerationSettings,UnityEngine.TextCore.Text.TextInfo,System.Boolean\u0026) - High Variable Count of 242"
+    },
+    {
+      "Type": 0,
+      "Text": "[UnityEngine.TextCoreTextEngineModule] - System.Boolean UnityEngine.TextCore.Text.TextGenerator::ValidateHtmlTag(UnityEngine.TextCore.Text.TextProcessingElement[],System.Int32,System.Int32\u0026,UnityEngine.TextCore.Text.TextGenerationSettings,UnityEngine.TextCore.Text.TextInfo,System.Boolean\u0026) - High Instruction Count of 6342"
+    },
+    {
+      "Type": 0,
+      "Text": "[UnityEngine.TextCoreTextEngineModule] - System.Boolean UnityEngine.TextCore.Text.TextGenerator::ValidateHtmlTag(UnityEngine.TextCore.Text.TextProcessingElement[],System.Int32,System.Int32\u0026,UnityEngine.TextCore.Text.TextGenerationSettings,UnityEngine.TextCore.Text.TextInfo,System.Boolean\u0026) - High CodeSize of 18047"
+    },
+    {
+      "Type": 0,
+      "Text": "[UnityEngine.TextCoreTextEngineModule] - System.Void UnityEngine.TextCore.Text.TextGenerator::ParsingPhase(UnityEngine.TextCore.Text.TextInfo,UnityEngine.TextCore.Text.TextGenerationSettings,System.UInt32\u0026,System.Single\u0026) - High Variable Count of 310"
+    },
+    {
+      "Type": 0,
+      "Text": "[UnityEngine.TextCoreTextEngineModule] - System.Void UnityEngine.TextCore.Text.TextGenerator::ParsingPhase(UnityEngine.TextCore.Text.TextInfo,UnityEngine.TextCore.Text.TextGenerationSettings,System.UInt32\u0026,System.Single\u0026) - High Instruction Count of 6699"
+    },
+    {
+      "Type": 0,
+      "Text": "[UnityEngine.TextCoreTextEngineModule] - System.Void UnityEngine.TextCore.Text.TextGenerator::ParsingPhase(UnityEngine.TextCore.Text.TextInfo,UnityEngine.TextCore.Text.TextGenerationSettings,System.UInt32\u0026,System.Single\u0026) - High CodeSize of 17457"
+    },
+    {
+      "Type": 0,
+      "Text": "[UnityEngine.TextCoreTextEngineModule] - System.Void UnityEngine.TextCore.Text.TextGeneratorUtilities::.cctor() - High Instruction Count of 10585"
+    },
+    {
+      "Type": 0,
+      "Text": "[UnityEngine.TextCoreTextEngineModule] - System.Void UnityEngine.TextCore.Text.TextGeneratorUtilities::.cctor() - High CodeSize of 31741"
+    },
+    {
+      "Type": 0,
+      "Text": "[mscorlib] - System.Void System.Security.Cryptography.RIPEMD160Managed::MDTransform(System.UInt32*,System.UInt32*,System.Byte*) - High Instruction Count of 5579"
+    }
+  ],
+  "CommandLine": "--convert-to-cpp --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/Assembly-CSharp-firstpass.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/Assembly-CSharp.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/Mono.Security.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/mscorlib.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/Newtonsoft.Json.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/System.Configuration.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/System.Core.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/System.Data.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/System.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/System.Drawing.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/System.Net.Http.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/System.Numerics.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/System.Runtime.Serialization.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/System.Xml.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/System.Xml.Linq.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.AccessibilityModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.AIModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.AndroidJNIModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.AnimationModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.AssetBundleModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.AudioModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.CoreModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.DirectorModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.GridModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.HierarchyCoreModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.ImageConversionModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.IMGUIModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.InputForUIModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.InputLegacyModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.InputModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.ParticleSystemModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.Physics2DModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.PhysicsModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.PropertiesModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.SharedInternalsModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.SubsystemsModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.TerrainModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.TextCoreFontEngineModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.TextCoreTextEngineModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.TextRenderingModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.TilemapModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.UIElementsModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.UIModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.UnityAnalyticsCommonModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.UnityAnalyticsModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.UnityWebRequestModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.VFXModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.VideoModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.VRModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/UnityEngine.XRModule.dll --assembly=Library/Bee/artifacts/UWPPlayerBuildProgram/ManagedStripped/websocket-sharp.dll --generatedcppdir=C:/Users/CTP User/Desktop/GetDataFromTutorshop_latest - updated/GetDataFromTutorshop-update/Library/Bee/artifacts/UWPPlayerBuildProgram/il2cppOutput/cpp --symbols-folder=C:/Users/CTP User/Desktop/GetDataFromTutorshop_latest - updated/GetDataFromTutorshop-update/Library/Bee/artifacts/UWPPlayerBuildProgram/il2cppOutput/cpp/Symbols --enable-analytics --emit-null-checks --enable-array-bounds-check --dotnetprofile=unityaot-win32 --usymtool-path=C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data\\Tools\\usymtool.exe --profiler-report --profiler-output-file=C:/Users/CTP User/Desktop/GetDataFromTutorshop_latest - updated/GetDataFromTutorshop-update/Library/Bee/artifacts/il2cpp_conv_pw05.traceevents --print-command-line --static-lib-il2-cpp --data-folder=C:/Users/CTP User/Desktop/GetDataFromTutorshop_latest - updated/GetDataFromTutorshop-update/Library/Bee/artifacts/UWPPlayerBuildProgram/il2cppOutput/data"
+}
